@@ -10,7 +10,7 @@ Fascinated by this chaotic queue, you decide you must know the minimum number of
 
 ## Function Description
 
-Complete the function minimumBribes in the editor below. It must print an integer representing the minimum number of bribes necessary, or Too chaotic if the line configuration is not possible.
+Create a function minimumBribes. It must print an integer representing the minimum number of bribes necessary, or Too chaotic if the line configuration is not possible.
 
 minimumBribes has the following parameter(s):
 
